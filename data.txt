@@ -1,0 +1,9 @@
+apple
+banana
+cherry
+dog
+cat
+caterpillar
+1234
+abcd123
+hello world

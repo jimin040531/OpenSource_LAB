@@ -1,0 +1,10 @@
+--- diff1.txt	2025-10-22 17:49:55.428247989 +0900
++++ diff2.txt	2025-10-22 17:50:27.986283713 +0900
+@@ -1,5 +1,5 @@
+ apple
+ banana
++cherry
+ grape
+-lemon
+-orange
++peach
